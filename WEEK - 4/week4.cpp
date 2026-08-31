@@ -32,7 +32,6 @@ void displayProcesses(struct Process p[], int n) {
     }
 }
 
-
 // 3
 void calculateCompletionTime(struct Process p[], int n) {
     for (int i = 0; i < n; i++) {
